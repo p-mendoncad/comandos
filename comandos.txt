@@ -3,3 +3,4 @@ status: Mostra o que ainda falta fazer e o que já foi feito, informa qual o est
 commit: Confirma as alterações feitas criando uma nova versão.
 pull: Busca e baixa o conteúdo de repositórios remotos e faz a atualização do repositório local para que o conteúdo seja igual.
 pull request: Solicita que uma alteração seja feita necessitando ser aprovada.
+push: Envia a alteração para o repositório remoto.
