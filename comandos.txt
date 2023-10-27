@@ -1,1 +1,2 @@
 add: Adiciona novos arquivos  e atualiza quando alguma alteração é feita.
+status: Mostra o que ainda falta fazer e o que já foi feito, informa qual o estado do repositório.
